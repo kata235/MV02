@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"shooter","classId":1,"equips":[6,1],"faceIndex":0,"faceName":"shooter","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":2,"value":1},{"code":55,"dataId":1,"value":1},{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"加害者","nickname":"","note":"","profile":"森宮中学校に通う 中学三年生の女子生徒。\n家庭崩壊から精神を病み 大量殺人を空想するようになった。"},
+{"id":2,"battlerName":"","characterIndex":2,"characterName":"shooter","classId":1,"equips":[6,0],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1},{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"共犯","nickname":"","note":"","profile":""}
+]
